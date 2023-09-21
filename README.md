@@ -1,8 +1,10 @@
 # Wallpapers
 
-*A collection of my wallpapers over the years*
 
-<p align=center">
+*A collection of my wallpapers over the years.*
+
+<p align=center>
+
 
 123o8fw.jpg
 
