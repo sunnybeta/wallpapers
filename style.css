@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: black;
+}
+
+main{
+	margin: 5% 5% auto 5%;
+	text-align: center;
+}
+
+.container img{
+	height: 67.5;
+	width: 120;
+}
+
+.container{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 120px);
+}
+
+
+.container img:hover{
+	border: 1px solid red;
+
+}
