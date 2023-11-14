@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/sunnybeta/walle/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sunnybeta/walle/actions/workflows/pages/pages-build-deployment)
+
 # Wallpapers
 
 
