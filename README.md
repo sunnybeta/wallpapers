@@ -5,6 +5,12 @@
 
 *A collection of my wallpapers over the years.*
 
+## TODO
+
+- [ ] Rename Wallpapers
+- [ ] Add Credits (if any)
+- [ ] Find Better UI
+
 <p align=center>
 
 
