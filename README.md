@@ -89,6 +89,11 @@ black-wallpaper-15.jpg
 <img src="wallpapers/black-wallpaper-15.jpg" height=360 width=640>
 
 
+brokeface.jpg
+
+<img src="wallpapers/brokeface.jpg" height=360 width=640>
+
+
 btmitrome.jpg
 
 <img src="wallpapers/btmitrome.jpg" height=360 width=640>
@@ -164,6 +169,11 @@ genshin_impact.jpeg
 <img src="wallpapers/genshin_impact.jpeg" height=360 width=640>
 
 
+goy.jpg
+
+<img src="wallpapers/goy.jpg" height=360 width=640>
+
+
 groove.jpg
 
 <img src="wallpapers/groove.jpg" height=360 width=640>
@@ -182,6 +192,11 @@ hattori.jpg
 hk.jpg
 
 <img src="wallpapers/hk.jpg" height=360 width=640>
+
+
+hollowknightquill.png
+
+<img src="wallpapers/hollowknightquill.png" height=360 width=640>
 
 
 IiSj6Hr.jpg
@@ -227,6 +242,11 @@ lofi.jpg
 luckystar.jpg
 
 <img src="wallpapers/luckystar.jpg" height=360 width=640>
+
+
+mariocoder.jpg
+
+<img src="wallpapers/mariocoder.jpg" height=360 width=640>
 
 
 mariolevel.jpg
@@ -289,6 +309,11 @@ open-sourcerer.jpg
 <img src="wallpapers/open-sourcerer.jpg" height=360 width=640>
 
 
+pension.jpg
+
+<img src="wallpapers/pension.jpg" height=360 width=640>
+
+
 pinknebula.jpg
 
 <img src="wallpapers/pinknebula.jpg" height=360 width=640>
@@ -329,14 +354,14 @@ qM2txv7.jpg
 <img src="wallpapers/qM2txv7.jpg" height=360 width=640>
 
 
-Ratchet-Clank-1080-Wallpaper.jpg
-
-<img src="wallpapers/Ratchet-Clank-1080-Wallpaper.jpg" height=360 width=640>
-
-
 ratchet_clank.jpg
 
 <img src="wallpapers/ratchet_clank.jpg" height=360 width=640>
+
+
+Ratchet-Clank-Wallpaper.jpg
+
+<img src="wallpapers/Ratchet-Clank-Wallpaper.jpg" height=360 width=640>
 
 
 redfiction.jpg
@@ -372,6 +397,11 @@ samuraijack.jpg
 scifi.jpg
 
 <img src="wallpapers/scifi.jpg" height=360 width=640>
+
+
+silksong.png
+
+<img src="wallpapers/silksong.png" height=360 width=640>
 
 
 smoke_and_mirrors.jpg
@@ -427,6 +457,11 @@ wallpaper.png
 wenweb.jpg
 
 <img src="wallpapers/wenweb.jpg" height=360 width=640>
+
+
+whitehairbrightlight.jpg
+
+<img src="wallpapers/whitehairbrightlight.jpg" height=360 width=640>
 
 
 willian-justen-de-vasconcellos-jUCQRQeRs3k-unsplash.jpg
